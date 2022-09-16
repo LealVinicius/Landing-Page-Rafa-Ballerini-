@@ -9,7 +9,7 @@ Esta página foi feita enquanto acompanhava a aula, porém, eu pausava a aula, e
 Foi um projeto bastante simples e fácil, e estou partindo para desafios mais complexos.
 
 
-![preview](assets/.github/preview.png)
+![preview](image/.github/preview.png)
 
 🔗 [Clique aqui para acessar] ()
 
